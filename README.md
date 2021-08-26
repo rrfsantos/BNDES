@@ -1,6 +1,4 @@
-# BNDES-premiodadosabertos
-
-Prêmio Dados Abertos para o Desenvolvimento - VGG16, Tesseract, Pytesseract, Latent Dirichlet Allocation (LDA).
+# BNDES
 
 Alocação Latente de Dirichlet (LDA) - Análise de tópicos e estudo de termos mais frequentes em:
 
